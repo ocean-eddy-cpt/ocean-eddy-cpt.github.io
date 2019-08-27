@@ -6,19 +6,16 @@
 Ocean Transport and Eddy Energy CPT
 ===================================
 
-The ocean eddy CPT is all about X, Y, Z.
+
+Welcome the Ocean Transport and Eddy Energy Climate Process Team.
+This CPT is a large collaborative project funded by NOAA and NSF.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   goals
    people
+   code
+   data
    publications
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
