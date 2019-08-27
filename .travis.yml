@@ -1,0 +1,19 @@
+# Doctr requires python >=3.5
+language: python
+python:
+  - 3.6
+
+# This gives Doctr the key we've generated
+sudo: false
+env:
+  global:
+    secure: "<your secure key from Doctr here>"
+
+# This is the script to build the docs on travis, then deploy
+script:
+  - set -e
+  - pip install doctr
+  - cd doc
+  - make html
+  - cd ..
+  - doctr deploy . --built-docs doc/_build/html

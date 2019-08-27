@@ -1,0 +1,6 @@
+sphinx==1.6.5
+doctr>=1.6.3
+sphinx-modern-theme
+recommonmark
+sphinx-markdown-tables
+sphinxcontrib-bibtex
