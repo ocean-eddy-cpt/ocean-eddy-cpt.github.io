@@ -4,7 +4,8 @@
 
 ## About this repository
 
-This repo is home to a [Sphinx](http://www.sphinx-doc.org/en/master/) website.
+This repo is home to a [Sphinx](http://www.sphinx-doc.org/en/master/) project
+used to generate <https://ocean-eddy-cpt.github.io>.
 It uses [GitHub pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
 to host the project documentation.
 The source code for the documentation lives in the `source` branch.
