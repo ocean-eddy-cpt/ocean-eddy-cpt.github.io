@@ -19,3 +19,4 @@ This CPT is a large collaborative project funded by NOAA and NSF.
    code
    data
    publications
+   calendar
