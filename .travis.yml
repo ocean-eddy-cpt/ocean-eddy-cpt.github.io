@@ -19,4 +19,4 @@ script:
   - cd doc
   - make html
   - cd ..
-  - doctr deploy . --built-docs doc/_build/html
+  - doctr deploy . --built-docs doc/_build/html --deploy-branch-name gh-pages
