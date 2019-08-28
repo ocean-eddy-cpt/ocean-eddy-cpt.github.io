@@ -19,4 +19,5 @@ script:
   - cd doc
   - make html
   - cd ..
-  - doctr deploy . --built-docs doc/_build/html --deploy-branch-name gh-pages
+  # *.github.io gh-pages need to be deployed to master
+  - doctr deploy . --built-docs doc/_build/html --deploy-branch-name master --branch-whitelist source
