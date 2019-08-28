@@ -3,6 +3,15 @@ language: python
 python:
   - 3.6
 
+# *.github.io gh-pages need to be deployed to master
+# sphinx source lives in "source" branch
+
+# safelist
+branches:
+  except:
+  # don't build the docs on master because that's just the html source
+  - master
+
 # This gives Doctr the key we've generated
 sudo: false
 env:
@@ -19,6 +28,5 @@ script:
   - cd doc
   - make html
   - cd ..
-  # *.github.io gh-pages need to be deployed to master
-  # doc source lives in "source" branch
+
   - doctr deploy . --built-docs doc/_build/html --deploy-branch-name master --branch-whitelist source
