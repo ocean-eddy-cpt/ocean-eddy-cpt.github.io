@@ -1,6 +1,8 @@
-# Ocean Eddy CPT Website
-
 [![Build Status](https://travis-ci.com/ocean-eddy-cpt/ocean-eddy-cpt.github.io.svg?branch=source)](https://travis-ci.com/ocean-eddy-cpt/ocean-eddy-cpt.github.io)
+![Website](https://img.shields.io/website/https/ocean-eddy-cpt.github.io)
+
+
+# Ocean Eddy CPT Website
 
 ## About this repository
 
