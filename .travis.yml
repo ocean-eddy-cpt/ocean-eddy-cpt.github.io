@@ -7,12 +7,15 @@ python:
 sudo: false
 env:
   global:
-    secure: "<your secure key from Doctr here>"
+    # Doctr deploy key for ocean-eddy-cpt/ocean-eddy-cpt.github.io
+    - secure: "oOApXH1RseGH8/UeZMWYmy4m2+vQggrLik0MlDVBwvwHk34ThdsqAeTWW417yNx+hXyZtMdBs62y1Q4p992WuV+Ceds4+gV7MKVGBRbGqfT+xlNKtZr0lMSNBieSA0HdGzvSnR51l5mkZLDDydQoJPdoBLLRfk9lEk+xlv+6wSivKKWnIbZz9fs8IXfjl2SANxCPiXmlLS3UcJBlOxhVRChGl9XdXuSJaECur/cXsV5cA8A/WHZZTdcu3X5XbX9W8eVrB7AO14+Mxco7fCqeLF0vcgKypSRLH1khPi6Le8j9yVKAJ5HUDf/FohJzPW/eS6w8GFuZRIQIc71Es3E1X96qN6fp/M6XcvgCt6q7PQ8Yl7kyFOEPgFL7D2f2I5LQBh2HvikCqPVkNk9oj2MQQW85P/3j8U+eEoMmJcQM7cbrsgBoSF71MV/uMDo54w9xKH4cikwPvyvFiaG3aL+Fgfn1XEBKMFG4rCa+sltL617KLyv4VebuSxZbrp8++ML0yORH0aiQxbltxRl4JSsD+7upzzuzJqcC6gCJdt7cDwEH168DmnghZ3BH5oTIALf8SUS820I1oH7MWzyNAhvHeCC8zLVgeaScDD9q+s/L3VQ3/X/r83CiEJNA6hw0mY1MzWuCL5k6knWc1UJR9HbPXr4zjKUrwVRgzriFamG8qCw="
+
+install:
+  - pip install -r requirements.txt
 
 # This is the script to build the docs on travis, then deploy
 script:
   - set -e
-  - pip install doctr
   - cd doc
   - make html
   - cd ..
