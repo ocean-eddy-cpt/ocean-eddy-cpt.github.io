@@ -16,6 +16,7 @@ This CPT is a large collaborative project funded by NOAA and NSF.
 
    goals
    people
+   positions
    code
    data
    publications
