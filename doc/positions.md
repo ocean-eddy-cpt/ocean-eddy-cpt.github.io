@@ -20,13 +20,13 @@ reduce climate model biases in ocean currents, stratification, and transport.
 - University of Colorado, Boulder (Supervised by Ian Grooms): Assessment of 2D
   eddy energy equation; parameterization of eddy energy transport;
   parameterizing dissipation in the eddy energy equation.
-  More information wil be available shortly.
+  More information is available at <https://jobs.colorado.edu/jobs/JobDetail/?jobId=20799>.
 
 - Woods Hole Oceanographic Institution (Supervised  by Sylvia Cole):
   Characterizing scale-dependent EKE from observations; quasi-3D eddy buoyancy
   and momentum statistics from observations; analysis of vertical eddy structure
   in observations; synthesis of observations.
-  More information will be available shortly.
+  More information is available at <https://careers.whoi.edu/opportunities/view-all-openings/science-research/> (position 19-08-09). 
 
 - Princeton University (Supervised by Alistair Adcroft): Implementation and
   assessment of extant parameterizations of mesoscale eddies in process,
