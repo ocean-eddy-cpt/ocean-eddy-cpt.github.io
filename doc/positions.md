@@ -15,7 +15,7 @@ reduce climate model biases in ocean currents, stratification, and transport.
   high-resolution simulations; unify buoyancy and tracer closures; assessment
   and parameterization of vertical energy structure; parameterization of the grey
   zone.
-  More information will be available shortly.
+  More information and application at <https://apply.interfolio.com/68119>.
 
 - University of Colorado, Boulder (Supervised by Ian Grooms): Assessment of 2D
   eddy energy equation; parameterization of eddy energy transport;
@@ -26,14 +26,14 @@ reduce climate model biases in ocean currents, stratification, and transport.
   Characterizing scale-dependent EKE from observations; quasi-3D eddy buoyancy
   and momentum statistics from observations; analysis of vertical eddy structure
   in observations; synthesis of observations.
-  More information is available at <https://careers.whoi.edu/opportunities/view-all-openings/science-research/> (position 19-08-09). 
+  More information and application at <https://careers.whoi.edu/opportunities/view-all-openings/science-research/> (position 19-08-09). 
 
 - Princeton University (Supervised by Alistair Adcroft): Implementation and
   assessment of extant parameterizations of mesoscale eddies in process,
   idealized and global ocean models; consistent and optimized formulation of
   closures; development and assessment of improved and unified closures;
   evaluation of new closures in climate models.
-  More information will be available at <https://www.princeton.edu/acad-positions/position/>
+  More information and application at <https://www.princeton.edu/acad-positions/position/13701>.
 
 Applications must include a cover letter, a CV with a list of publications, a
 statement of research interests, and contact information of 3 references.
