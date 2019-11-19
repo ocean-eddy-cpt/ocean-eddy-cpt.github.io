@@ -22,5 +22,5 @@ recent work on energetically-consistent ocean eddy momentum and tracer
 parametrizations in ocean-only and coupled climate models to improve model
 fidelity.**
 We will implement and compare recently-developed energetically-consistent
-parametrizations in the NCAR, GFDL, LANL, and maybe GISS climate
+parametrizations in the NCAR, GFDL, LANL, and GISS climate
 models.
