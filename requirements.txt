@@ -3,4 +3,4 @@ doctr==1.8.0
 sphinx-modern-theme
 recommonmark
 sphinx-markdown-tables
-sphinxcontrib-bibtex
+sphinxcontrib-bibtex==0.4.2
