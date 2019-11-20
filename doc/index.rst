@@ -38,6 +38,7 @@ We will implement and compare recently-developed energetically-consistent
 parametrizations in the NCAR, GFDL, and LANL climate
 models.
 
+The text of the proposal to NOAA and NSF can be found at https://doi.org/10.6084/m9.figshare.10105922.v1 .
 
 .. toctree::
    :maxdepth: 2
