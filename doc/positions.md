@@ -1,5 +1,7 @@
 # Positions
 
+ALL POSITIONS HAVE BEEN FILLED! 
+
 Multiple postdoctoral research positions are available as part of a
 multi-institution Climate Process Team (CPT) on Ocean Transport and Eddy
 Energy. The CPT aims to survey, improve, and unify new advances in energy-,
