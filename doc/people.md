@@ -9,7 +9,7 @@ the US.
 |------|------|-------|---------|
 | Laure Zanna | Lead PI | <mailto:laure.zanna@nyu.edu> | <https://laurezanna.github.io> |
 | Shafer Smith | PI | <mailto:kss3@nyu.edu> | <https://math.nyu.edu/people/profiles/SMITH_Shafer.html> |
-| (position avail.) | Postdoc | | |
+| (Elizabeth Yankovsky) | Postdoc starting 09/2020| | |
 
 ## Columbia University
 
@@ -22,14 +22,14 @@ the US.
 | Name | Role | Email | Website |
 |------|------|-------|---------|
 | Ian Grooms | PI | <mailto:ian.grooms@colorado.edu> | <https://www.colorado.edu/amath/grooms> |
-| (position avail.) | Postdoc | | |
+| Nora Loose | Postdoc starting 09/2020| | |
 
 ## Woods Hole Oceanographic Institute
 
 | Name | Role | Email | Website |
 |------|------|-------|---------|
 | Sylvia Cole | PI | <mailto:scole@whoi.edu> | <https://www2.whoi.edu/staff/scole/> |
-| (position avail.) | Postdoc | | |
+| Jake Steinberg | Postdoc starting 06/2020| | |
 
 ## Princeton University / NOAA-GFDL
 
@@ -38,7 +38,7 @@ the US.
 | Alistair Adcroft | PI | <mailto:aadcroft@princeton.edu> | <https://adcroft.github.io> |
 | Stephen Griffies | PI | <mailto:Stephen.Griffies@noaa.gov> | <https://stephengriffies.github.io/> |
 | Robert Hallberg | PI | <mailto:Robert.Hallberg@noaa.gov> | <https://www.gfdl.noaa.gov/robert-hallberg-homepage/> |
-| (position avail.) | Postdoc | | |
+| Neeraja Bhamidipati | Postdoc starting 07/2020 | | |
 
 ## NCAR
 
