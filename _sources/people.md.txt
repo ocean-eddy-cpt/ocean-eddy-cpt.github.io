@@ -9,7 +9,7 @@ the US.
 |------|------|-------|---------|
 | Laure Zanna | Lead PI | <mailto:laure.zanna@nyu.edu> | <https://laurezanna.github.io> |
 | Shafer Smith | PI | <mailto:kss3@nyu.edu> | <https://math.nyu.edu/people/profiles/SMITH_Shafer.html> |
-| (Elizabeth Yankovsky) | Postdoc starting 09/2020| | |
+| Elizabeth Yankovsky | Postdoc starting 09/2020| | |
 
 ## Columbia University
 
