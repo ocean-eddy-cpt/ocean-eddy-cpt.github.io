@@ -46,7 +46,7 @@ the US.
 |------|------|-------|---------|
 | Scott Bachman | PI | <mailto:bachman@ucar.edu> | <https://staff.ucar.edu/users/bachman> |
 | Gokhan Danabasoglu | PI | <mailto:gokhan@ucar.edu> | <https://staff.ucar.edu/users/gokhan> |
-
+|Gustavo Marques | | ||
 ## University of Washington, APL
 
 | Name | Role | Email | Website |
