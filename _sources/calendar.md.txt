@@ -2,6 +2,18 @@
 
 ## Upcoming events...
 
+### CLIVAR Future Directions in High-resolution Ocean Modelling:
+29 Sept-01 Oct 2021 in Kiel, Germany and virtual.
+https://events.geomar.de/event/147/
+
+Many CPT presenters and CPT-related discussions.
+
+
+### NCAR Ocean Model Winter Working Group Meeting 2021:
+?? February 2021 in Boulder, CO and virtual.
+
+Many CPT presenters and CPT-related discussions.
+
 ### CPT Annual Meeting:
 
 November 2020 online - further details to follow. 
@@ -18,3 +30,5 @@ Many CPT presenters and CPT-related discussions.
 16-21 February 2020 in San Diego, CA.
 
 There was a CPT-sponsored session (Ocean Transport and Eddy Energy).
+
+
