@@ -10,7 +10,7 @@ Many CPT presenters and CPT-related discussions.
 
 
 ### NCAR Ocean Model Winter Working Group Meeting 2021:
-?? February 2021 in Boulder, CO and virtual.
+(tentatively) 1-5 February 2021 in Boulder, CO and virtual.
 
 Many CPT presenters and CPT-related discussions.
 
