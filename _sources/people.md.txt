@@ -9,7 +9,7 @@ the US.
 |------|------|-------|---------|
 | Laure Zanna | Lead PI | <mailto:laure.zanna@nyu.edu> | <https://laurezanna.github.io> |
 | Shafer Smith | PI | <mailto:kss3@nyu.edu> | <https://math.nyu.edu/people/profiles/SMITH_Shafer.html> |
-| Elizabeth Yankovsky | Postdoc | <mailto:eay8226@nyu.edu> | https://elizabethyankovsky.github.io/ |
+| Elizabeth Yankovsky | Postdoc | <mailto:eay8226@nyu.edu> | <https://elizabethyankovsky.github.io> |
 
 ## Columbia University
 
@@ -22,7 +22,7 @@ the US.
 | Name | Role | Email | Website |
 |------|------|-------|---------|
 | Ian Grooms | PI | <mailto:ian.grooms@colorado.edu> | <https://www.colorado.edu/amath/grooms> |
-| Nora Loose | Postdoc | <mailto:nora.loose@colorado.edu> | https://noraloose.github.io/ |
+| Nora Loose | Postdoc | <mailto:nora.loose@colorado.edu> | <https://noraloose.github.io> |
 
 ## Woods Hole Oceanographic Institute
 
