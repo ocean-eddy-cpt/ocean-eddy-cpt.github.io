@@ -5,7 +5,9 @@
 ### CPT Annual Meeting:
 
 April 12-14 2022 in Boulder and Online 
-Abstract submission open until March 1st: 
+
+Abstract submission open until March 1st
+
 http://tinyurl.com/cptabstract
 
 
