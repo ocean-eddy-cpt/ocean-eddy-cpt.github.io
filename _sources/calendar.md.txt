@@ -8,7 +8,7 @@ April 12-14 2022 in Boulder and Online
 
 Abstract submission open until March 1st
 
-http://tinyurl.com/cptabstract
+<http://tinyurl.com/cptabstract>
 
 
 ## Past events...
