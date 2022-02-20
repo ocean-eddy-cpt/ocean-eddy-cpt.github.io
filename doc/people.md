@@ -29,7 +29,7 @@ the US.
 | Name | Role | Email | Website |
 |------|------|-------|---------|
 | Sylvia Cole | PI | <mailto:scole@whoi.edu> | <https://www2.whoi.edu/staff/scole/> |
-| Jake Steinberg | Postdoc | | |
+| Jake Steinberg | Postdoc | <mailto:jsteinberg@whoi.edu> | <https://jakesteinberg.github.io> |
 
 ## Princeton University / NOAA-GFDL
 
@@ -38,7 +38,7 @@ the US.
 | Alistair Adcroft | PI | <mailto:aadcroft@princeton.edu> | <https://adcroft.github.io> |
 | Stephen Griffies | PI | <mailto:Stephen.Griffies@noaa.gov> | <https://stephengriffies.github.io/> |
 | Robert Hallberg | PI | <mailto:Robert.Hallberg@noaa.gov> | <https://www.gfdl.noaa.gov/robert-hallberg-homepage/> |
-| Jenny Chang | Postdoc starting Oct 2021 | | |
+| Jenny Chang | Postdoc| <mailto:cychang@princeton.edu> | |
 
 ## NCAR
 
@@ -46,7 +46,7 @@ the US.
 |------|------|-------|---------|
 | Scott Bachman | PI | <mailto:bachman@ucar.edu> | <https://staff.ucar.edu/users/bachman> |
 | Gokhan Danabasoglu | PI | <mailto:gokhan@ucar.edu> | <https://staff.ucar.edu/users/gokhan> |
-|Gustavo Marques | Research Staff | <mailto:gmarques@ucar.edu> ||
+|Gustavo Marques | Research Associate | <mailto:gmarques@ucar.edu> | <https://staff.ucar.edu/users/gmarques> |
 
 ## University of Washington, APL
 
