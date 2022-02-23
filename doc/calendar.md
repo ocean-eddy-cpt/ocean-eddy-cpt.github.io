@@ -12,6 +12,7 @@ Abstract submission open until March 1st
 
 <http://tinyurl.com/cptabstract>
 
+![flyer](/_static/CPT-flyer.png)
 
 ### Ocean Sciences 2022 
 
