@@ -8,7 +8,7 @@
 
 April 12-14 2022 in Boulder and Online 
 
-Agenda for the meeting: <tinyurl.com/CPT22Agenda>
+Agenda for the meeting: <https://tinyurl.com/CPT22Agenda>
 
 Partcipants, who are not presenting, are welcomed to attend and should be filling out the [google form](http://tinyurl.com/cptabstract), indicating their participation in person or virtually, to be kept informed of the meeting details. 
 
