@@ -12,6 +12,8 @@ Agenda for the meeting: <https://tinyurl.com/CPT22Agenda>
 
 Partcipants, who are not presenting, are welcomed to attend and should be filling out the [google form](http://tinyurl.com/cptabstract), indicating their participation in person or virtually, to be kept informed of the meeting details. 
 
+In-person attendees will be subject to appropriate health policies, primarily following [local](https://www.bouldercounty.org/families/disease/covid-19-information/mask-recommendations/) and [University](https://www.colorado.edu/covid-19) mask requirements.
+
 ![flyer](/_static/CPT-flyer-small.png)
 
 ### Ocean Sciences 2022 
