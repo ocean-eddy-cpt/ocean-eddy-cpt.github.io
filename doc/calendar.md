@@ -2,7 +2,10 @@
 
 ## Upcoming events...
 
+To be announced. 
 
+
+## Past events...
 
 ### CPT Annual Meeting:
 
@@ -21,8 +24,6 @@ In-person attendees will be subject to appropriate health policies, primarily fo
 Session organized by the CPT researchers: PL06 Mesoscale Eddy Energy and Ocean Transport
 
 <http://www.oceansciencesmeeting.org>
-
-## Past events...
 
 ### CLIVAR Future Directions in High-resolution Ocean Modelling:
 29 Sept-01 Oct 2021 in Kiel, Germany and virtual.
