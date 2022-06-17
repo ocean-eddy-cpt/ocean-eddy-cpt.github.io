@@ -9,7 +9,7 @@ the US.
 |------|------|-------|---------|
 | Laure Zanna | Lead PI | <mailto:laure.zanna@nyu.edu> | <https://laurezanna.github.io> |
 | Shafer Smith | PI | <mailto:kss3@nyu.edu> | <https://math.nyu.edu/people/profiles/SMITH_Shafer.html> |
-| Elizabeth Yankovsky | Postdoc starting 09/01/2020| | |
+| Elizabeth Yankovsky | Postdoc | <mailto:eay8226@nyu.edu> | <https://elizabethyankovsky.github.io> |
 
 ## Columbia University
 
@@ -22,14 +22,14 @@ the US.
 | Name | Role | Email | Website |
 |------|------|-------|---------|
 | Ian Grooms | PI | <mailto:ian.grooms@colorado.edu> | <https://www.colorado.edu/amath/grooms> |
-| Nora Loose | Postdoc starting 10/2020| | |
+| Nora Loose | Postdoc | <mailto:nora.loose@colorado.edu> | <https://noraloose.github.io> |
 
 ## Woods Hole Oceanographic Institute
 
 | Name | Role | Email | Website |
 |------|------|-------|---------|
 | Sylvia Cole | PI | <mailto:scole@whoi.edu> | <https://www2.whoi.edu/staff/scole/> |
-| Jake Steinberg | Postdoc | | |
+| Jake Steinberg | Postdoc | <mailto:jsteinberg@whoi.edu> | <https://jakesteinberg.github.io> |
 
 ## Princeton University / NOAA-GFDL
 
@@ -38,7 +38,7 @@ the US.
 | Alistair Adcroft | PI | <mailto:aadcroft@princeton.edu> | <https://adcroft.github.io> |
 | Stephen Griffies | PI | <mailto:Stephen.Griffies@noaa.gov> | <https://stephengriffies.github.io/> |
 | Robert Hallberg | PI | <mailto:Robert.Hallberg@noaa.gov> | <https://www.gfdl.noaa.gov/robert-hallberg-homepage/> |
-| Neeraja Bhamidipati | Postdoc | <mailto:neerajab@princeton.edu> | |
+| Jenny Chang | Postdoc| <mailto:cychang@princeton.edu> | |
 
 ## NCAR
 
@@ -46,7 +46,7 @@ the US.
 |------|------|-------|---------|
 | Scott Bachman | PI | <mailto:bachman@ucar.edu> | <https://staff.ucar.edu/users/bachman> |
 | Gokhan Danabasoglu | PI | <mailto:gokhan@ucar.edu> | <https://staff.ucar.edu/users/gokhan> |
-|Gustavo Marques | Research Staff | <mailto:gmarques@ucar.edu> ||
+|Gustavo Marques | Research Associate | <mailto:gmarques@ucar.edu> | <https://staff.ucar.edu/users/gmarques> |
 
 ## University of Washington, APL
 
