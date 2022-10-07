@@ -19,9 +19,10 @@ env:
     # Doctr deploy key for ocean-eddy-cpt/ocean-eddy-cpt.github.io
     - secure: "fmRzMczNLtY3hwkv9g77YPkw/Zm24oD+jyTKxd7UHmLz2eYo8062v2jk7qo62freS5AkdLzxo1BBUtWmV2/38rGYegP1zM5kBLiGIx/Peutz1UwP8E8cwe9HQHzopi6WAAykbIlxKw4mgFbfv52lM2TbVrDKQC8LQCUbhPMz2r7D7Ma97kq6VtCclUtmTs2z6wj08DnaE0Y1JPSFXexo/A7aU7UguvzLB+hoDah8lNlpWuREdVsqsH3zDRJS+GTSdCattpYDl6Hts5Fbcr+olmpJyeeGmMqp/ejNi1bjZRQPy8DxIzDsIMjVLGIME+f14OOFwKYrjhv2TUoBYQ8QrPL/jMBveWsMbAfR8Sbl8l+ZLAHmm09m6OYmR057TiXL+2c3O3Sm72iNMKGbygo68FUZS4gkY4Z8T1W2O6kMn5kutfZv4dzPgp6NNjQNik5Vak4W2+QJkHeHBR06JNxBYWZMNzCOTzxldx7ornZ58EzeZMMaon5SAAxNtJAzepJqahCX5KaqNaZCpn3sJPaUdkJIfxwG2sMPQKTOZa/h+JNplPdHyW9ojAqn3GtNTSnSfmEN9iEKpCQOuD1TkxujflWk0OPWpCgaiNrgcrDxOy/x4+8T6WU4+6tY3HHLGoxQkyzCZAB00jJpYyUvB0ZnmPALD9fttS5U2/3yYZ3d9/o="
 
-dist: focal
+dist: xenial
 
 install:
+  - pip install --upgrade pip
   - pip install -r requirements.txt
 
 # This is the script to build the docs on travis, then deploy
