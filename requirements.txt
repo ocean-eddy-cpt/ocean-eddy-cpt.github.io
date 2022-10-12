@@ -2,5 +2,5 @@ sphinx==1.6.5
 doctr==1.8.0
 sphinx-modern-theme
 recommonmark
-sphinx-markdown-tables
+sphinx-markdown-tables==0.0.15
 sphinxcontrib-bibtex==0.4.2
