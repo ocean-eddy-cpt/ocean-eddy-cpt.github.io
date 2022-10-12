@@ -1,7 +1,7 @@
 # Doctr requires python >=3.5
 language: python
 python:
-  - 3.6
+  - 3.6.7
 
 # *.github.io gh-pages need to be deployed to master
 # sphinx source lives in "source" branch
