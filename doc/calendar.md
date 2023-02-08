@@ -2,12 +2,15 @@
 
 ## Upcoming events...
 
-To be announced. 
+### CPT Annual Meeting, 2023:
 
+Our annual meeting will be held May 8-10, 2023, in Woods Hole and Online. We are welcoming abstracts and registration at <https://tinyurl.com/cpt-abstract23>.
+
+<a href="https://tinyurl.com/cpt-abstract23">![flyer](/_static/CPT-2023-flyer.png)<a>
 
 ## Past events...
 
-### CPT Annual Meeting:
+### CPT Annual Meeting, 2022:
 
 April 12-14 2022 in Boulder and Online 
 
