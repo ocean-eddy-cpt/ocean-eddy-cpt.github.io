@@ -4,7 +4,11 @@
 
 ### CPT Annual Meeting, 2023:
 
-Our annual meeting will be held May 8-10, 2023, in Woods Hole and Online. We are welcoming abstracts and registration at <https://tinyurl.com/cpt-abstract23>.
+Our annual meeting will be held May 8-10, 2023, in Woods Hole and Online. 
+
+We are welcoming abstracts and registration at <https://tinyurl.com/cpt-abstract23>.
+
+Further information can be found at <https://www2.whoi.edu/site/eddyenergy2023/>. 
 
 <a href="https://tinyurl.com/cpt-abstract23">![flyer](/_static/CPT-2023-flyer.png)<a>
 
