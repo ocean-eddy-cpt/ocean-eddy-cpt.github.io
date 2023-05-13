@@ -2,6 +2,7 @@
 language: python
 python:
   - 3.6.7
+  - 3.8
 
 # *.github.io gh-pages need to be deployed to master
 # sphinx source lives in "source" branch
