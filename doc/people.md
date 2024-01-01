@@ -26,8 +26,8 @@ the US.
 
 ## Former Members
 
-| Name | Role | Email | Website |
-|------|------|-------|---------|
+| Name | Role | Institution | Email | Website | 
+|------|------|-------------|-------|---------|
 | Kyla Drushka | PI | UW/APL | mailto:kdrushka@uw.edu> | <http://apl.uw.edu/people/profile.php?last_name=Drushka&first_name=Kyla> |
 | Elizabeth Yankovsky | Postdoc | NYU | <mailto:eay8226@nyu.edu> | <https://elizabethyankovsky.github.io> |
 | Jake Steinberg | Postdoc | WHOI | <mailto:jsteinberg@whoi.edu> | <https://jakesteinberg.github.io> |
