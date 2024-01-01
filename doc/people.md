@@ -3,6 +3,7 @@
 Our Team is a collaboration among many investigators and institutions across
 the US.
 
+## Our current members
 
 | Name | Role | Institution | Email | Website | 
 |------|------|-------|---------|
