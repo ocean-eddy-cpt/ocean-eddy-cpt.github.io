@@ -7,7 +7,7 @@ the US.
 
 | Name | Role | Institution | Email | Website | 
 |------|------|-------------|-------|---------|
-| Laure Zanna | Lead PI | NYU | <mailto:laure.zanna@nyu.edu> | <https://laurezanna.github.io> |
+| Laure Zanna | Lead PI | NYU | <mailto:laure.zanna@nyu.edu> | <https://zanna-researchteam.github.io/> |
 | Shafer Smith | PI | NYU |<mailto:kss3@nyu.edu> | <https://math.nyu.edu/people/profiles/SMITH_Shafer.html> |
 | Matthew Pudig | Student | NYU | <mailto:matthew.pudig@nyu.edu> | 
 | Ian Grooms | PI | CU Boulder | <mailto:ian.grooms@colorado.edu> | <https://www.colorado.edu/amath/grooms> |
