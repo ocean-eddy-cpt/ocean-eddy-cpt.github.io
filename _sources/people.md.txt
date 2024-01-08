@@ -12,7 +12,6 @@ the US.
 | Matthew Pudig | Student | NYU | <mailto:matthew.pudig@nyu.edu> | 
 | Ian Grooms | PI | CU Boulder | <mailto:ian.grooms@colorado.edu> | <https://www.colorado.edu/amath/grooms> |
 | Houssam Yassin | Postdoc| CU Boulder | <mailto:houssam@ualberta.ca> |
-
 | Sylvia Cole | PI | WHOI | <mailto:scole@whoi.edu> | <https://www2.whoi.edu/staff/scole/> |
 | Alistair Adcroft | PI | Princeton/GFDL | <mailto:aadcroft@princeton.edu> | <https://adcroft.github.io> |
 | Stephen Griffies | PI | Princeton/GFDL | <mailto:Stephen.Griffies@noaa.gov> | <https://stephengriffies.github.io/> |
