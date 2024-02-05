@@ -50,3 +50,4 @@ The text of the proposal to NOAA and NSF can be found at https://doi.org/10.6084
    data
    publications
    calendar
+   Meeting
