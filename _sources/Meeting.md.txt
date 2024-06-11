@@ -8,4 +8,4 @@ We are welcoming abstracts and registration at [tinyurl.com/cpt-abstract24](http
 
 More details about group room block at nearby hotel will be announced shortly. Stay Tuned! 
 
-![flyer](/_static/CPT-flyer2024-small.png)
+![flyer](/_static/CPT-flyer24-update.png)
