@@ -7,5 +7,5 @@ To submit an abstract for consideration, or simply register to attend, please fi
 ](https://docs.google.com/forms/d/e/1FAIpQLSf7_SFKLgScMTzEHkBjuTOXRz546BH5dZCIxbEUeEVjddJ_xA/vie\
 wform?usp=header).
 
-![flyer](/_static/CPT-AnnMtg2025-flyer.png)
+[flyer](/_static/CPT-AnnMtg2025-flyer.png)
 
