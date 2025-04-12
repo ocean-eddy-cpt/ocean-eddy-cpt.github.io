@@ -6,5 +6,5 @@ te, 251 Mercer St, New York City](https://cims.nyu.edu/dynamic/about/directions/
 To submit an abstract for consideration, or simply register to attend, please fill in [this form\
 ](https://tinyurl.com/CPT2025registration).
 
-Here's a [flyer](/_static/CPT-AnnMtg2025-flyer.png) 
+Here's a [flyer](/_static/CPT-AnnMtg2025-flyer.png) you may use to advertise the meeting to others
 
