@@ -1,9 +1,10 @@
-# CPT Annual Meeting
+# 2025 Annual Meeting
 
-## 2024 Meeting
+Our 3-day annual meeting will be held **August 13-15**, at [New York University, Courant Institu\
+te, 251 Mercer St, New York City](https://cims.nyu.edu/dynamic/about/directions/). A virtual attendance option will be available.
 
-Our annual meeting will be held **August 14-16th**, at [Brown University, Lincoln Field building, Room 120, 180 Thayer St, Providence, RI](https://maps.app.goo.gl/zkG3aWXNbXMopL7r9). There will also be online streaming option. 
+To submit an abstract for consideration, or simply register to attend, please fill in [this form\
+](https://tinyurl.com/CPT2025registration).
 
-You can find our Agenda for the meeting at this [link](https://drive.google.com/file/d/1AWZEzdxdgGgUkTCi24AzP-Qxw0RnZOCC/view?usp=drive_link). 
+Here's a [flyer](/_static/CPT-AnnMtg2025-flyer.png) you may use to advertise the meeting to others
 
-![flyer](/_static/CPT-flyer24-update.png)
