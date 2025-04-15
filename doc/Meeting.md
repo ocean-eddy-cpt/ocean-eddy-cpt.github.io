@@ -6,3 +6,4 @@ To submit an abstract for consideration, or simply register to attend, please fi
 
 Here's a [flyer](_static/CPT-AnnMtg2025-flyer.png) you may use to advertise the meeting to others
 
+![flyer](/_static/CPT-AnnMtg2025-flyer.png) 
