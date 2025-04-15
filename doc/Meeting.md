@@ -4,6 +4,6 @@ Our 3-day annual meeting will be held **August 13-15**, at [New York University,
 
 To submit an abstract for consideration, or simply register to attend, please fill in [this form](https://tinyurl.com/CPT2025registration)
 
-Here's a [flyer](doc/_static/CPT-AnnMtg2025-flyer.png) you may use to advertise the meeting to others
+Here's a [flyer](https://drive.google.com/file/d/1WZbOi7bbIdiijuGqJ61bjIfMrQa6vRAB/view?usp=drive_link) you may use to advertise the meeting to others
 
 ![flyer](/_static/CPT-AnnMtg2025-flyer.png) 
