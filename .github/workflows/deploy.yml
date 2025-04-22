@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-20.04 # Specifies the runner environment
+    runs-on: ubuntu-latest # Specifies the runner environment
 
     steps:
     - uses: actions/checkout@v2  # Checks-out your repository
