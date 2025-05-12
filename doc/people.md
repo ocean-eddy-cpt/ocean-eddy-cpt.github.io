@@ -9,7 +9,7 @@ the US.
 |------|------|-------------|-------|---------|
 | Laure Zanna | Lead PI | NYU | <mailto:laure.zanna@nyu.edu> | <https://zanna-researchteam.github.io/> |
 | Shafer Smith | PI | NYU |<mailto:kss3@nyu.edu> | <https://math.nyu.edu/people/profiles/SMITH_Shafer.html> |
-| Matthew Pudig | Student | NYU | <mailto:matthew.pudig@nyu.edu> | 
+| Matthew Pudig | Student | NYU | <mailto:matthew.pudig@nyu.edu> | <https://mpudig.github.io/> |
 | Ian Grooms | PI | CU Boulder | <mailto:ian.grooms@colorado.edu> | <https://www.colorado.edu/amath/grooms> |
 | Houssam Yassin | Postdoc| CU Boulder | <mailto:houssam@ualberta.ca> |
 | Sylvia Cole | PI | WHOI | <mailto:scole@whoi.edu> | <https://www2.whoi.edu/staff/scole/> |
