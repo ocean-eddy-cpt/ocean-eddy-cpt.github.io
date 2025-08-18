@@ -1,5 +1,5 @@
-sphinx>=7.3
-doctr==1.8.0
+sphinx==5.3.0
+myst-parser==0.18.1
+docutils>=0.17,<0.18
 sphinxcontrib-bibtex>=2.6.1
 sphinx-modern-theme
-myst-parser
