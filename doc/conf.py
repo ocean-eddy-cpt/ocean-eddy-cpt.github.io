@@ -36,13 +36,20 @@ from recommonmark.transform import AutoStructify
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.intersphinx',
+extensions = [
+    'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
-    'recommonmark',
-    'sphinx_markdown_tables',
-    'sphinxcontrib.bibtex']
+    'myst_parser',
+    'sphinxcontrib.bibtex',
+]
+
+# -- Options for sphinxcontrib-bibtex --------------------------------------
+
+# List of BibTeX files to include (relative to your docs directory)
+bibtex_bibfiles = []  # replace with your actual .bib file(s)
+
 
 
 # Add any paths that contain templates here, relative to this directory.
@@ -51,7 +58,10 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-source_suffix = ['.rst', '.md']
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
 
 # The master toctree document.
 master_doc = 'index'
@@ -75,7 +85,7 @@ author = 'Ocean Transport and Eddy Energy CPT'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -187,8 +197,9 @@ texinfo_documents = [
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'https://docs.python.org/': None}
-
+intersphinx_mapping = {
+    'python': ('https://docs.python.org/3/', None)
+}
 
 def setup(app):
     app.add_config_value('recommonmark_config', {
