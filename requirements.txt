@@ -1,6 +1,5 @@
-sphinx==1.6.5
+sphinx>=7.3
 doctr==1.8.0
+sphinxcontrib-bibtex>=2.6.1
 sphinx-modern-theme
-recommonmark
-sphinx-markdown-tables==0.0.15
-sphinxcontrib-bibtex==0.4.2
+myst-parser
