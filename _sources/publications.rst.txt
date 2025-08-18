@@ -10,10 +10,12 @@ Published
 ---------
 
 .. bibliography:: bibliography/published.bib
-  
+  :all:
+  :style: unsrt
 
 Submitted
 ---------
 
 .. bibliography:: bibliography/Submitted.bib
- 
+ :all:
+ :style: unsrt
