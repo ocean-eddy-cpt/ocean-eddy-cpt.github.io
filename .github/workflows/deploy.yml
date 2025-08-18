@@ -24,6 +24,8 @@ jobs:
         pip install --upgrade Sphinx
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        pip install sphinxcontrib-bibtex
+        
        
     - name: Build Documentation
       run: |
