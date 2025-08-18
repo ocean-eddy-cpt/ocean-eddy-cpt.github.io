@@ -21,10 +21,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import recommonmark
-#import sphinx_bootstrap_theme
 import sphinx_modern_theme
-from recommonmark.transform import AutoStructify
 
 
 # -- General configuration ------------------------------------------------
@@ -200,10 +197,3 @@ texinfo_documents = [
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None)
 }
-
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-            'url_resolver': lambda url: github_doc_root + url,
-            'auto_toc_tree_section': 'Contents',
-            }, True)
-    app.add_transform(AutoStructify)
