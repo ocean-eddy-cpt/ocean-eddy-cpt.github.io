@@ -82,3 +82,5 @@ Stanley, Z., Bachman, S., & Grooms, I. `Vertical structure of ocean mesoscale ed
 
 Submitted
 ---------
+
+Marques, G. M., Shao, A. E., Bachman, S. D., Danabasoglu, G., & Bryan, F. O. `A method for applying lateral surface eddy diffusion in ocean models with a general vertical coordinate <https://doi.org/10.1002/essoar.10506862.1>`_. *Authorea Preprints*. doi: 10.1002/essoar.10506862.1. 
