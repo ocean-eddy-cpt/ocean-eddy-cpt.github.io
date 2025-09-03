@@ -14,9 +14,13 @@ Grooms, I., Agarwal, N., Marques, G., Pegion, P. J., & Yassin, H. `The Stochasti
 
 **2024** 
 
-Yankovsky, E., Bachman, S., Smith, K. S., & Zanna, L. `Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies <https://doi.org/10.1029/2023MS004093>`_. *Journal of Advances in Modeling Earth Systems*, 16(7), e2023MS004093. doi: 10.1029/2023MS004093
+Yankovsky, E., Bachman, S., Smith, K. S., & Zanna, L. `Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies <https://doi.org/10.1029/2023MS004093>`_. *Journal of Advances in Modeling Earth Systems*, 16(7), e2023MS004093. doi: 10.1029/2023MS004093.
 
 Dong, J., Fox-Kemper, B., Wenegrat, J. O., Bodner, A. S., Yu, X., Belcher, S., & Dong, C. `Submesoscales are a significant turbulence source in global ocean surface boundary layer <https://doi.org/10.1038/s41467-024-53959-y>`_. *Nature Communications*, 15(1), 9566. doi: 10.1038/s41467-024-53959-y.
+
+Robey, R., & Grooms, I. `Continuous and Discrete Baroclinic Modes in Continuously Varying Stratification <https://doi.org/10.1137/24M1648181>`_. *SIAM Journal on Applied Mathematics*, 84(6), 2502--2521. doi: 10.1137/24M1648181.
+
+Jansen, M. F., Adcroft, A., Griffies, S. M., & Grooms, I. `The averaged hydrostatic Boussinesq ocean equations in generalized vertical coordinates <https://doi.org/10.1029/2024MS004506>`_. *Journal of Advances in Modeling Earth Systems*, 16(12), e2024MS004506. doi:10.1029/2024MS004506.
 
 **2023** 
 
@@ -32,7 +36,9 @@ Cao, H., Fox-Kemper, B., Jing, Z., Song, X., and Liu, Y. `Towards the upper-ocea
 
 Seo, H., O’Neill, L.W., Bourassa, M.A., Czaja, A., Drushka, K., Edson, J.B., Fox-Kemper, B., Frenger, I., Gille, S.T., Kirtman, B.P., Minobe, S., Pendergrass, A.G., Renault, L., Roberts, M.J., Schneider, N., Small, R.J., Stoffelen, A., and Wang, Q. `Ocean mesoscale and frontal-scale ocean-atmosphere interactions and influence on large-scale climate: A review <https://doi.org/10.1175/JCLI-D-21-0982.1>`_, *Journal of Climate*. doi: 10.1175/JCLI-D-21-0982.1.
 
-Loose, N., Marques, G. M., Adcroft, A., Bachman, S., Griffies, S. M., Grooms, I., ... & Jansen, M. F. (2023). `Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model <https://doi.org/10.1029/2022MS003518>`_. *Journal of Advances in Modeling Earth Systems*, 15(12), e2022MS003518. doi: 10.1029/2022MS003518
+Loose, N., Marques, G. M., Adcroft, A., Bachman, S., Griffies, S. M., Grooms, I., ... & Jansen, M. F. (2023). `Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model <https://doi.org/10.1029/2022MS003518>`_. *Journal of Advances in Modeling Earth Systems*, 15(12), e2022MS003518. doi: 10.1029/2022MS003518.
+
+Grooms, I. `Backscatter in energetically-constrained Leith parameterizations <https://doi.org/10.1016/j.ocemod.2023.102265>`_. *Ocean Modelling*, 186, 102265. doi:10.1016/j.ocemod.2023.102265.
 
 **2022** 
 
@@ -54,6 +60,8 @@ Hewitt, H., Fox-Kemper, B., Pearson, B., Roberts, M., and Klocke, D. `The small 
 Partee, S., Ellis, M., Rigazzi, A., Shao, A.E., Bachman, S., Marques, G., and Robbins, B. `Using Machine Learning at scale in numerical simulations with SmartSim: An application to ocean climate modeling <https://doi.org/10.1016/j.jocs.2022.101707>`_. *Journal of Computational Science*: 101707. doi: 10.1016/j.jocs.2022.101707. 
 
 Loose, N., Bachman, S., Grooms, I., and Jansen, M. `Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model <https://doi.org/10.1175/JPO-D-22-0083.1>`_. *Journal of Physical Oceanography*. doi: 10.1175/JPO-D-22-0083.1.
+
+Grooms, I. `Limits on the Rate of Conversion of Potential to Kinetic Energy in Quasigeostrophic Turbulence <https://doi.org/10.3390/fluids7080276>`_. *Fluids*, 7(8), 276. doi:10.3390/fluids7080276.
 
 **2021** 
 
@@ -83,4 +91,6 @@ Stanley, Z., Bachman, S., & Grooms, I. `Vertical structure of ocean mesoscale ed
 Submitted
 ---------
 
-Marques, G. M., Shao, A. E., Bachman, S. D., Danabasoglu, G., & Bryan, F. O. `A method for applying lateral surface eddy diffusion in ocean models with a general vertical coordinate <https://doi.org/10.1002/essoar.10506862.1>`_. *Authorea Preprints*. doi: 10.1002/essoar.10506862.1. 
+Tro, S., Robey, R., & Grooms, I. `Ekman-driven buoyancy flux in quasigeostrophic flow`. Submitted to *Journal of Fluid Mechanics*.
+
+Yassin, H., Marques, G., & Grooms, I. `Balancing backscatter and diffusion in a 1/4 degree forced global ocean model`. Submitted to *Journal of Advances in Modeling Earth Systems*.
