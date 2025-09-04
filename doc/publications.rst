@@ -12,6 +12,9 @@ Published
 
 Grooms, I., Agarwal, N., Marques, G., Pegion, P. J., & Yassin, H. `The Stochastic GM+ E closure: A framework for coupling stochastic backscatter with the Gent and McWilliams parameterization <https://doi.org/10.1029/2024MS004560>`_. *Journal of Advances in Modeling Earth Systems*, 17(5), e2024MS004560. doi: 10.1029/2024MS004560. 
 
+Cheung, A. H., Du, X., Parish, M. C., Vachula, R. S., Fox-Kemper, B., & Herbert, T. `The Influence of Carbon Dioxide and Precession on Western North American Hydroclimate and Pacific Sea Surface
+Temperature During the Holocene<https://doi.org/10.1029/2024PA005079>`_. *Paleoceanography and Paleoclimatology*, 40, e2024PA005079. doi: 10.1029/2024PA005079. 
+
 **2024** 
 
 Yankovsky, E., Bachman, S., Smith, K. S., & Zanna, L. `Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies <https://doi.org/10.1029/2023MS004093>`_. *Journal of Advances in Modeling Earth Systems*, 16(7), e2023MS004093. doi: 10.1029/2023MS004093.
@@ -68,6 +71,8 @@ Grooms, I. `Limits on the Rate of Conversion of Potential to Kinetic Energy in Q
 Guillaumin, A. P., & Zanna, L. `Stochastic‐deep learning parameterization of ocean momentum forcing <https://doi.org/10.1029/2021MS002534>`_. *Journal of Advances in Modeling Earth Systems*, 2021, 13(9), e2021MS002534. doi: 10.1029/2021MS002534.
 
 Grooms, I., Loose, N., Abernathey, R., Steinberg, J. M., Bachman, S. D., Marques, G., ... & Yankovsky, E. `Diffusion‐based smoothers for spatial filtering of gridded geophysical data <https://doi.org/10.1029/2021MS002552>`_. *Journal of Advances in Modeling Earth Systems*, 2021, 13(9), e2021MS002552. doi: 10.1029/2021MS002552.
+
+Cao, H., Fox-Kemper, B., & Jing, Z. `Submesoscale Eddies in the Upper Ocean of the Kuroshio Extension from High-Resolution Simulation: Energy Budget <https://doi.org/10.1175/JPO-D-20-0267.1>`_. *Journal of Physical Oceanography*, 2021, 51(7), 83-100. doi: 10.1175/JPO-D-20-0267.1.
 
 Jing, Z., Fox-Kemper, B., Cao, H., Zheng, R., & Du, Y. `Submesoscale fronts and their dynamical processes associated with symmetric instability in the northwest Pacific subtropical ocean <https://doi.org/10.1175/JPO-D-20-0076.1>`_. *Journal of Physical Oceanography*, 2021, 51(1), 83-100. doi: 10.1175/JPO-D-20-0076.1.
 
