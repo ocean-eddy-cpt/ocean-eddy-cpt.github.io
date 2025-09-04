@@ -1,10 +1,14 @@
 Publications
 ============
 
-Proposal
---------
+Submitted
+---------
 
-Zanna, Laure (2019): Proposal to CVP Climate Process Teams on "Ocean Transport and Eddy Energy". https://doi.org/10.6084/m9.figshare.10105922.v1
+Tro, S., Robey, R., & Grooms, I. `Ekman-driven buoyancy flux in quasigeostrophic flow`. Submitted to *Journal of Fluid Mechanics*.
+
+Yassin, H., Marques, G., & Grooms, I. `Balancing backscatter and diffusion in a 1/4 degree forced global ocean model`. Submitted to *Journal of Advances in Modeling Earth Systems*.
+
+Zhang, W., Kuo, Y. H., Silvestri, S., Adcroft, A., Hallberg, R. W., & Griffies, S. M. `A WENO finite-volume scheme for the evolution of potential vorticity in isopycnal ocean models <https://doi.org/10.22541/essoar.175380391.18723979/v1>`_. *Authorea Preprints*. doi: 10.22541/essoar.175380391.18723979/v1
 
 Published
 ---------
@@ -21,6 +25,8 @@ Steinberg, J.M., Yankovsky, E., Cole, S.T., & Zanna, L. `A landscape of mesoscal
 Yankovsky, E., Bachman, S., Smith, K. S., & Zanna, L. `Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies <https://doi.org/10.1029/2023MS004093>`_. *Journal of Advances in Modeling Earth Systems*, 16(7), e2023MS004093. doi: 10.1029/2023MS004093.
 
 Dong, J., Fox-Kemper, B., Wenegrat, J. O., Bodner, A. S., Yu, X., Belcher, S., & Dong, C. `Submesoscales are a significant turbulence source in global ocean surface boundary layer <https://doi.org/10.1038/s41467-024-53959-y>`_. *Nature Communications*, 15(1), 9566. doi: 10.1038/s41467-024-53959-y.
+
+Zhang, W., Griffies, S. M., Hallberg, R. W., Kuo, Y. H., & Wolfe, C. L. `The role of surface potential vorticity in the vertical structure of mesoscale eddies in wind-driven ocean circulations <https://doi.org/10.1175/JPO-D-23-0203.1>`_. Journal of Physical Oceanography, 54(6), 1243-1266. doi: 10.1175/JPO-D-23-0203.1
 
 Robey, R., & Grooms, I. `Continuous and Discrete Baroclinic Modes in Continuously Varying Stratification <https://doi.org/10.1137/24M1648181>`_. *SIAM Journal on Applied Mathematics*, 84(6), 2502--2521. doi: 10.1137/24M1648181.
 
@@ -96,9 +102,7 @@ Hewitt, H. T., Roberts, M., Mathiot, P., Biastoch, A., Blockley, E., Chassignet,
 Stanley, Z., Bachman, S., & Grooms, I. `Vertical structure of ocean mesoscale eddies with implications for parameterizations of tracer transport <https://doi.org/10.1029/2020MS002151>`_. *Journal of Advances in Modeling Earth Systems*, 2020, 12(10), e2020MS002151. doi: 10.1029/2020MS002151.
 
 
-Submitted
----------
+Proposal
+--------
 
-Tro, S., Robey, R., & Grooms, I. `Ekman-driven buoyancy flux in quasigeostrophic flow`. Submitted to *Journal of Fluid Mechanics*.
-
-Yassin, H., Marques, G., & Grooms, I. `Balancing backscatter and diffusion in a 1/4 degree forced global ocean model`. Submitted to *Journal of Advances in Modeling Earth Systems*.
+Zanna, Laure (2019): Proposal to CVP Climate Process Teams on "Ocean Transport and Eddy Energy". https://doi.org/10.6084/m9.figshare.10105922.v1
