@@ -12,6 +12,8 @@ Published
 
 Grooms, I., Agarwal, N., Marques, G., Pegion, P. J., & Yassin, H. `The Stochastic GM+ E closure: A framework for coupling stochastic backscatter with the Gent and McWilliams parameterization <https://doi.org/10.1029/2024MS004560>`_. *Journal of Advances in Modeling Earth Systems*, 17(5), e2024MS004560. doi: 10.1029/2024MS004560. 
 
+Cheung, A. H., Du, X., Parish, M. C., Vachula, R. S., Fox-Kemper, B., & Herbert, T. `The Stochastic GM+ E closure: A framework for coupling stochastic backscatter with the Gent and McWilliams parameterization <https://doi.org/10.1029/2024MS004560>`_. *Paleoceanography and Paleoclimatology*, 40, e2024PA005079. doi: 10.1029/2024PA005079.
+
 Cheung, A. H., Du, X., Parish, M. C., Vachula, R. S., Fox-Kemper, B., & Herbert, T. `The Influence of Carbon Dioxide and Precession on Western North American Hydroclimate and Pacific Sea Surface
 Temperature During the Holocene<https://doi.org/10.1029/2024PA005079>`_. *Paleoceanography and Paleoclimatology*, 40, e2024PA005079. doi: 10.1029/2024PA005079.
 
