@@ -14,6 +14,8 @@ Grooms, I., Agarwal, N., Marques, G., Pegion, P. J., & Yassin, H. `The Stochasti
 
 Cheung, A. H., Du, X., Parish, M. C., Vachula, R. S., Fox-Kemper, B., & Herbert, T. `The influence of carbon dioxide and precession on Western North American hydroclimate and Pacific sea surface temperature during the Holocene <https://doi.org/10.1029/2024PA005079>`_. *Paleoceanography and Paleoclimatology*, 40, e2024PA005079. doi: 10.1029/2024PA005079.
 
+Steinberg, J.M., Yankovsky, E., Cole, S.T., & Zanna, L. `A landscape of mesoscale eddy vertical structure: the influence of bathymetric slope and roughness on kinetic energy <https://doi.org/10.1175/JPO-D-25-0044.1>`_. *Journal of Physical Oceanography*. doi: 10.1175/JPO-D-25-0044.1.
+
 **2024** 
 
 Yankovsky, E., Bachman, S., Smith, K. S., & Zanna, L. `Vertical structure and energetic constraints for a backscatter parameterization of ocean mesoscale eddies <https://doi.org/10.1029/2023MS004093>`_. *Journal of Advances in Modeling Earth Systems*, 16(7), e2023MS004093. doi: 10.1029/2023MS004093.
@@ -64,6 +66,8 @@ Partee, S., Ellis, M., Rigazzi, A., Shao, A.E., Bachman, S., Marques, G., and Ro
 Loose, N., Bachman, S., Grooms, I., and Jansen, M. `Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model <https://doi.org/10.1175/JPO-D-22-0083.1>`_. *Journal of Physical Oceanography*. doi: 10.1175/JPO-D-22-0083.1.
 
 Grooms, I. `Limits on the Rate of Conversion of Potential to Kinetic Energy in Quasigeostrophic Turbulence <https://doi.org/10.3390/fluids7080276>`_. *Fluids*, 7(8), 276. doi:10.3390/fluids7080276.
+
+Steinberg, J.M., Cole, S.T., Drushka, K., & Abernathey, R.P. `Seasonality of the mesoscale inverse cascade as inferred from global scale-dependent eddy energy observations <https://doi.org/10.1175/JPO-D-21-0269.1>`_. *Journal of Physical Oceanography*, 52(8). doi: 10.1175/JPO-D-21-0269.1.
 
 **2021** 
 
