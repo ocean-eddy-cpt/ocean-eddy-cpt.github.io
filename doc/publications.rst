@@ -4,6 +4,8 @@ Publications
 Submitted
 ---------
 
+Pudig, M. P., Zhang, W., Smith, K. S., & Zanna, L. `Parameterizing isopycnal mixing via kinetic energy backscatter in an eddy-permitting ocean model <https://doi.org/10.22541/essoar.175805328.85239601/v1>`_. *Authorea Preprints*. doi: 10.22541/essoar.175805328.85239601/v1
+
 Tro, S., Robey, R., & Grooms, I. `Ekman-driven buoyancy flux in quasigeostrophic flow`. Submitted to *Journal of Fluid Mechanics*.
 
 Yassin, H., Marques, G., & Grooms, I. `Balancing backscatter and diffusion in a 1/4 degree forced global ocean model`. Submitted to *Journal of Advances in Modeling Earth Systems*.
@@ -13,6 +15,8 @@ Zhang, W., Kuo, Y. H., Silvestri, S., Adcroft, A., Hallberg, R. W., & Griffies, 
 Published
 ---------
 **2025**
+
+Pudig, M. P., & Smith, K. S. (2025). `Baroclinic turbulence above rough topography: The vortex gas and topographic turbulence regimes <https://doi.org/10.1175/JPO-D-24-0110.1>`_. *Journal of Physical Oceanography*, 55(5), 611-630, doi : 10.1175/JPO-D-24-0110.1
 
 Grooms, I., Agarwal, N., Marques, G., Pegion, P. J., & Yassin, H. `The Stochastic GM+ E closure: A framework for coupling stochastic backscatter with the Gent and McWilliams parameterization <https://doi.org/10.1029/2024MS004560>`_. *Journal of Advances in Modeling Earth Systems*, 17(5), e2024MS004560. doi: 10.1029/2024MS004560. 
 
